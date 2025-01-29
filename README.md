@@ -6,4 +6,4 @@ This is a simple to-do list application built with Tkinter.
 
 1. Clone the repository:
    ```sh
-   git clone https://patryktecza.github.io/todo/
+   git clone https://github.com/patryktecza/todo.git
